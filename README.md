@@ -53,6 +53,6 @@ You can modify the code to add more admins or delete the database to reset admin
 This project is licensed under the [MIT License](LICENSE).
 
 
-## ⁕ CONTACT
+## CONTACT
 For support, feedback, or inquiries, please contact me at kiimissi.imane@gmail.com.
 
